@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: lbo3ec94y-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/lbo3ec94y-nodejs
